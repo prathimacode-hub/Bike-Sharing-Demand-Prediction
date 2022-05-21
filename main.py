@@ -152,5 +152,3 @@ elif add_selectbox == 'Work':
 
     st.markdown('• <a href="https://www.linkedin.com/in/prathimacode-hub/">Prathima Kadari</a>',
                 unsafe_allow_html=True)
-
-g
