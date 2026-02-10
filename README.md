@@ -12,4 +12,4 @@ This feature turns bike sharing system into a virtual sensor network that can be
 
 Streamlit App : https://share.streamlit.io/prathimacode-hub/bike-sharing-demand-prediction/main/main.py
 
-We had used Rangom Forest Regressor to predict due to it's optimized accuracy. 
+We had used Random Forest Regressor to predict due to it's optimized accuracy. 
